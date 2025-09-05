@@ -1,0 +1,2 @@
+# AppicAdSpecs-Adapter
+adapter
