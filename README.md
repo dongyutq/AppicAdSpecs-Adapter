@@ -21,7 +21,10 @@ Then run:
     pod install
 
 ## Notes
->1.The AppicAdAdapter depends on both:
->2.AppicAd-SDK (provided through the private specs repo above)
->3.AppLovinSDK (public CocoaPods repo)
->4.Make sure to include the private specs source (AppicAdSpecs) in your Podfile, otherwise CocoaPods will not be able to resolve AppicAd-SDK.
+>• The AppicAdAdapter depends on both:
+>
+>>AppicAd-SDK (provided through the private specs repo above)
+>>
+>>AppLovinSDK (public CocoaPods repo)
+>
+>• Make sure to include the private specs source (AppicAdSpecs) in your Podfile, otherwise CocoaPods will not be able to resolve AppicAd-SDK.
