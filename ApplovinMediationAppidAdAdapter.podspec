@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/dongyutq/AppicAdSpecs-Adapter'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'guo tianqi' => 'guotianqi@apicmob.com' }
-  s.source           = { :git => 'https://github.com/dongyutq/AppicAdSpecs-Adapter.git', :tag => s.version }
+  s.source           = { :git => 'git@github.com:dongyutq/AppicAdSpecs-Adapter.git', :tag => s.version }
 
   s.platform     = :ios, '11.0'
   s.swift_version = '5.0'
